@@ -1,0 +1,34 @@
+#logo1{
+    display: inline;
+    float: left;
+    width: 8%;
+}
+#logo2{
+    display: inline;
+    float: right;
+    width: 12%;
+}
+#texto{
+    display: inline-block;
+    text-align: center;
+    width: 79%;
+    background-color: cyan;
+}
+.d{
+    display: inline-block;
+    width: 180px;
+    text-align: center;
+    border: 4px darkviolet solid;
+    background-color: cyan;
+    
+
+}
+h3{
+    text-align: center;
+    border: 5px yellow solid;
+    background-color: cyan;
+   width: 1420px; 
+}
+html{
+    background-color: cornflowerblue;
+}
